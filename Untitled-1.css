@@ -1,0 +1,79 @@
+h1  { display: flex;
+    justify-content: center;
+     margin-top: -100px;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    position: relative;
+  
+
+   
+  
+}
+body{background-color:  rgba(200, 213, 233, 0.877);
+ 
+      
+       margin-top: 50px;
+       margin-left: 30px;
+       margin-right: 30px;
+       margin-bottom: 50px;
+       display: flex;
+      
+   
+
+
+
+}
+.game { background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 400px;
+   
+    margin-top: 30px ;
+   
+    margin-left: 350px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+    position: relative;
+
+   
+ 
+}
+
+#input { width: 100px;
+    margin-top: 5px;
+    border: 0;
+    margin-left: 150px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+    border: 2px solid black;
+
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#button { margin-top:-21px;
+    margin-left: 260px;
+   background-color: rgb(139, 126, 126);
+   align-items: center;
+   display: flex;
+   border: 0px;
+   font-size: 16px;
+   
+  
+}
+#outputtexte {color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 30px;
+
+}
+.image {width: 250px;
+        margin-top: 10px;
+}
+
+   
+
+       
+       
